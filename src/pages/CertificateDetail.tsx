@@ -10,6 +10,8 @@ const CertificateDetail = () => {
   const navigate = useNavigate();
 
   const certificate = mockCertificates.find(cert => cert.id === certificateId);
+  console.log(certificate, 'certificate detail');
+  
 
   if (!certificate) {
     return (

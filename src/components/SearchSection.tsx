@@ -23,6 +23,8 @@ const SearchSection = () => {
       cert.certificateNumber === certificateId.trim()
     );
 
+    console.log(certificate, 'searched for:', certificateId);
+
     if (!certificate) {
       toast.error("Nomor sertifikat tidak ditemukan");
       return;
