@@ -54,7 +54,7 @@ export const mockCertificates: Certificate[] = [
   },
   {
     id: "39ec0a58-fff5-4110-aa9d-82fc76fea5d4",
-    filePath: "/certificates/CERT-2024-001.pdf",
+    filePath: "/certificates/CERT-0001-CERT-ADS-V-X-2025.pdf",
     certificateNumber: "0001/CERT/ADS-V/X/2025",
     fullName: "Adam Dzakwan",
     program: "Volunteer",
@@ -80,7 +80,7 @@ export const mockCertificates: Certificate[] = [
   },
   {
     id: "1f00e368-9ee6-460d-b11a-1e716b25b45f",
-    filePath: "/certificates/CERT-2024-001.pdf",
+    filePath: "/certificates/CERT-0002-CERT-ADS-V-X-2025.pdf",
     certificateNumber: "0002/CERT/ADS-V/X/2025",
     fullName: "Arya Setiadi",
     program: "Volunteer",
@@ -106,7 +106,7 @@ export const mockCertificates: Certificate[] = [
   },
   {
     id: "28f58624-b89a-4ff2-9d63-e12a62ae0534",
-    filePath: "/certificates/CERT-2024-001.pdf",
+    filePath: "/certificates/CERT-0003-CERT-ADS-V-X-2025.pdf",
     certificateNumber: "0003/CERT/ADS-V/X/2025",
     fullName: "Muhammad Fadhil Firdaus",
     program: "Volunteer",
@@ -132,7 +132,7 @@ export const mockCertificates: Certificate[] = [
   },
   {
     id: "59f10a14-d8de-4956-9ddd-1742e73aa400",
-    filePath: "/certificates/CERT-2024-001.pdf",
+    filePath: "/certificates/CERT-0004-CERT-ADS-V-X-2025.pdf",
     certificateNumber: "0004/CERT/ADS-V/X/2025",
     fullName: "Muhammad Fikri Irfan Kusumah",
     program: "Volunteer",

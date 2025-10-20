@@ -2,7 +2,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { CheckCircle2, XCircle, ArrowLeft, Calendar, User, Award, FileText, Download, Share2, Linkedin, Facebook, Twitter } from "lucide-react";
+import { XCircle, ArrowLeft, Calendar, User, Award, FileText, Download, Share2, Linkedin, Facebook, Twitter } from "lucide-react";
 import { mockCertificates } from "@/data/mockCertificates";
 
 const CertificateDetail = () => {
