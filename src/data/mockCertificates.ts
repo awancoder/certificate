@@ -63,7 +63,7 @@ export const mockCertificates: Certificate[] = [
     date_end: new Date("2025-10-11"),
     date_publish: new Date("2025-11-01"),
     isValid: true,
-    notes: "Catatan",
+    notes: "Dari awal bergabung sampai selesai project (2 bulan) menunjukkan perkembangan yang baik dalam hal hardskill maupun softskill. Tetap pertahankan semangat belajarnya ya, dan terus tingkatkan!",
     grade: {
       soft_skill: {
         communication: "AB",
@@ -89,7 +89,7 @@ export const mockCertificates: Certificate[] = [
     date_end: new Date("2025-10-11"),
     date_publish: new Date("2025-11-01"),
     isValid: true,
-    notes: "Catatan",
+    notes: "Pelajari basic-basic UI/UX design. Perbanyak portofolio supaya meningkatkan kemampuan, semakin banyak design yang di buat akan semakin baik. Selama disini menunjukkan perkembangan yang baik dalam hal hardskill maupun softskill. Tetap pertahankan semangat belajarnya ya, dan terus tingkatkan!",
     grade: {
       soft_skill: {
         communication: "AB",
@@ -115,7 +115,7 @@ export const mockCertificates: Certificate[] = [
     date_end: new Date("2025-10-11"),
     date_publish: new Date("2025-11-01"),
     isValid: true,
-    notes: "Catatan",
+    notes: "Dari awal bergabung sampai selesai project, dalam waktu 2 bulan bisa menyelesaikan project dengan baik hasilnya, hardskill dan softskill nya bagus. jangan punya rasa cukup, tetap pertahankan semangat belajarnya ya, dan terus tingkatkan!",
     grade: {
       soft_skill: {
         communication: "A",
@@ -141,7 +141,7 @@ export const mockCertificates: Certificate[] = [
     date_end: new Date("2025-10-11"),
     date_publish: new Date("2025-11-01"),
     isValid: true,
-    notes: "Catatan",
+    notes: "Pelajari basic-basic UI/UX design. Perbanyak portofolio supaya meningkatkan kemampuan, semakin banyak design yang di buat akan semakin baik. Memperbaiki manajemen waktu dan prioritas kerja agar lebih produktif dan efektif dalam menjalankan tugas.",
     grade: {
       soft_skill: {
         communication: "AB",
