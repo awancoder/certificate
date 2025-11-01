@@ -55,7 +55,9 @@ Diterbitkan oleh: Awan Digitals
 Cek sertifikat:
 ${currentUrl}
 
-*Silahkan tambahkan sertifikat ke linkedin dengan menekan tombol tambah pada halaman web*`;
+*Silahkan cek sertifikat, jika ada kesalahan pada sertifikat (penulisan nama, nomor sertifikat, QRCode, dll) silahkan hubungi admin melalui whatsapp di https://wa.me/6285183274639*
+*Sertifikat bisa ditambahkan ke linkedin dengan menekan tombol 'Tambahkan ke LinkedIn' pada halaman web*
+`;
     const text = encodeURIComponent(whatsappText);
     window.open(`https://wa.me/?text=${text}`, '_blank');
   };
