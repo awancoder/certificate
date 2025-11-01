@@ -194,9 +194,9 @@ ${currentUrl}
 
             <div className="pt-4 border-t">
               <div className="space-y-2">
-                <p className="text-sm text-muted-foreground">Status Sertifikat</p>
+                <p className="text-sm text-muted-foreground">Status</p>
                 <Badge variant={certificate.isValid ? "default" : "destructive"} className="text-sm px-4 py-1">
-                  {certificate.isValid ? "Selesai" : "Gagal"}
+                  {certificate.isValid ? "Selesai" : "Belum Selesai"}
                 </Badge>
               </div>
             </div>
